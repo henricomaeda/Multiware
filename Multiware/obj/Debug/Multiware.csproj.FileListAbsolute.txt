@@ -1,0 +1,11 @@
+C:\Users\yskco\Desktop\Multiware\Multiware\bin\Debug\Multiware.exe.config
+C:\Users\yskco\Desktop\Multiware\Multiware\bin\Debug\Multiware.exe
+C:\Users\yskco\Desktop\Multiware\Multiware\bin\Debug\Multiware.pdb
+C:\Users\yskco\Desktop\Multiware\Multiware\obj\Debug\Multiware.csproj.AssemblyReference.cache
+C:\Users\yskco\Desktop\Multiware\Multiware\obj\Debug\Multiware.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskco\Desktop\Multiware\Multiware\obj\Debug\Multiware.FrmMain.resources
+C:\Users\yskco\Desktop\Multiware\Multiware\obj\Debug\Multiware.Properties.Resources.resources
+C:\Users\yskco\Desktop\Multiware\Multiware\obj\Debug\Multiware.csproj.GenerateResource.cache
+C:\Users\yskco\Desktop\Multiware\Multiware\obj\Debug\Multiware.csproj.CoreCompileInputs.cache
+C:\Users\yskco\Desktop\Multiware\Multiware\obj\Debug\Multiware.exe
+C:\Users\yskco\Desktop\Multiware\Multiware\obj\Debug\Multiware.pdb
